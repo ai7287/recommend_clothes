@@ -82,7 +82,7 @@ class _WeatherPageState extends State<WeatherPage> {
       };
     } else {
       return {
-        'path': 'assets/main_cloud.png',
+        'path': 'assets/default_weather.png',
         'width': 150.0,
         'height': 150.0,
       };
